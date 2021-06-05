@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[recording started; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer started; 
+]]>
+    </line>
+    <line>
+      <![CDATA[The browser is opened now; 
+]]>
+    </line>
+    <line>
+      <![CDATA[the browser is maximized; 
+]]>
+    </line>
+    <line>
+      <![CDATA[redirected to spicejet.com; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer stopped; 
+]]>
+    </line>
+    <line>
+      <![CDATA[time taken to execute this method:22661 milliseconds 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer reset; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer started; 
+]]>
+    </line>
+    <line>
+      <![CDATA[1st baseline screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Tab order checked; 
+]]>
+    </line>
+    <line>
+      <![CDATA[1st testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[1st testcase screenshot compared with 1st baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer stopped; 
+]]>
+    </line>
+    <line>
+      <![CDATA[time taken to execute this method:6917 milliseconds 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer reset; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer started; 
+]]>
+    </line>
+    <line>
+      <![CDATA[counting checkboxes; 
+]]>
+    </line>
+    <line>
+      <![CDATA[checkboxes count: 8; 
+]]>
+    </line>
+    <line>
+      <![CDATA[counting radio buttons; 
+]]>
+    </line>
+    <line>
+      <![CDATA[radio button count: 3; 
+]]>
+    </line>
+    <line>
+      <![CDATA[counting tabs; 
+]]>
+    </line>
+    <line>
+      <![CDATA[tabs count: 10; 
+]]>
+    </line>
+    <line>
+      <![CDATA[counting links; 
+]]>
+    </line>
+    <line>
+      <![CDATA[total links count: 265; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer stopped; 
+]]>
+    </line>
+    <line>
+      <![CDATA[time taken to execute this method:182039 milliseconds 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer reset; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer started; 
+]]>
+    </line>
+    <line>
+      <![CDATA[the element is visible as departure city - CHECKED; 
+]]>
+    </line>
+    <line>
+      <![CDATA[the element is visible as arrival city - CHECKED; 
+]]>
+    </line>
+    <line>
+      <![CDATA[2nd testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[2nd testcase screenshot compared 1st with baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[the element is visible as depart date - CHECKED; 
+]]>
+    </line>
+    <line>
+      <![CDATA[3rd testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[3rd testcase screenshot compared with 1st baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Return date is disabled - CHECKED; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Round trip radio button enabled; 
+]]>
+    </line>
+    <line>
+      <![CDATA[4th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[4th testcase screenshot compared with 1st baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Return date is enabled - CHECKED; 
+]]>
+    </line>
+    <line>
+      <![CDATA[the element is visible as return date - CHECKED; 
+]]>
+    </line>
+    <line>
+      <![CDATA[3 adult passengers - CHECKED; 
+]]>
+    </line>
+    <line>
+      <![CDATA[5th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[5th testcase screenshot compared with 1st baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[USD currency selected; 
+]]>
+    </line>
+    <line>
+      <![CDATA[6th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[6th testcase screenshot compared with 1st baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Friends and family selected - CHECKED; 
+]]>
+    </line>
+    <line>
+      <![CDATA[7th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[7th testcase screenshot compared with 1st baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer stopped; 
+]]>
+    </line>
+    <line>
+      <![CDATA[time taken to execute this method:28587 milliseconds 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer reset; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer started; 
+]]>
+    </line>
+    <line>
+      <![CDATA[2nd baseline screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[chatbot opened; 
+]]>
+    </line>
+    <line>
+      <![CDATA[8th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[8th testcase screenshot compared with 2nd baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[chatbot closed; 
+]]>
+    </line>
+    <line>
+      <![CDATA[9th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[9th testcase screenshot compared with 2nd baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer stopped; 
+]]>
+    </line>
+    <line>
+      <![CDATA[time taken to execute this method:9709 milliseconds 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer reset; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer started; 
+]]>
+    </line>
+    <line>
+      <![CDATA[clicked on member login; 
+]]>
+    </line>
+    <line>
+      <![CDATA[3rd baseline screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[10th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[10th testcase screenshot compared with 3rd baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[login attempted; 
+]]>
+    </line>
+    <line>
+      <![CDATA[11th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[11th testcase screenshot compared with 3rd baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Popup closed; 
+]]>
+    </line>
+    <line>
+      <![CDATA[less than required character for member id ; 
+]]>
+    </line>
+    <line>
+      <![CDATA[login attempted; 
+]]>
+    </line>
+    <line>
+      <![CDATA[12th testcase screenshot captured; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Images are not Same; 
+]]>
+    </line>
+    <line>
+      <![CDATA[12th testcase screenshot compared with 3rd baseline screenshot; 
+]]>
+    </line>
+    <line>
+      <![CDATA[Popup closed; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer stopped; 
+]]>
+    </line>
+    <line>
+      <![CDATA[time taken to execute this method:30691 milliseconds 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer reset; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer started; 
+]]>
+    </line>
+    <line>
+      <![CDATA[driver is closed; 
+]]>
+    </line>
+    <line>
+      <![CDATA[timer stopped; 
+]]>
+    </line>
+    <line>
+      <![CDATA[time taken to execute this method:794 milliseconds 
+]]>
+    </line>
+    <line>
+      <![CDATA[recording stopped; 
+]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-06-05T22:51:58 IST" name="Spicejet" finished-at="2021-06-05T22:56:40 IST" duration-ms="282016">
+    <groups>
+    </groups>
+    <test started-at="2021-06-05T22:51:58 IST" name="Spicejet Test" finished-at="2021-06-05T22:56:40 IST" duration-ms="282016">
+      <class name="project.mavenjava.spicejet">
+        <test-method signature="openBrowser()[pri:0, instance:project.mavenjava.spicejet@5cee5251]" started-at="2021-06-05T22:51:58 IST" name="openBrowser" finished-at="2021-06-05T22:52:21 IST" duration-ms="22835" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[recording started; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer started; 
+]]>
+            </line>
+            <line>
+              <![CDATA[The browser is opened now; 
+]]>
+            </line>
+            <line>
+              <![CDATA[the browser is maximized; 
+]]>
+            </line>
+            <line>
+              <![CDATA[redirected to spicejet.com; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer stopped; 
+]]>
+            </line>
+            <line>
+              <![CDATA[time taken to execute this method:22661 milliseconds 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="tab()[pri:1, instance:project.mavenjava.spicejet@5cee5251]" started-at="2021-06-05T22:52:21 IST" name="tab" finished-at="2021-06-05T22:52:28 IST" duration-ms="6925" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[timer reset; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer started; 
+]]>
+            </line>
+            <line>
+              <![CDATA[1st baseline screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Tab order checked; 
+]]>
+            </line>
+            <line>
+              <![CDATA[1st testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[1st testcase screenshot compared with 1st baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer stopped; 
+]]>
+            </line>
+            <line>
+              <![CDATA[time taken to execute this method:6917 milliseconds 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tab -->
+        <test-method signature="count()[pri:2, instance:project.mavenjava.spicejet@5cee5251]" started-at="2021-06-05T22:52:28 IST" name="count" finished-at="2021-06-05T22:55:30 IST" duration-ms="182041" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[timer reset; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer started; 
+]]>
+            </line>
+            <line>
+              <![CDATA[counting checkboxes; 
+]]>
+            </line>
+            <line>
+              <![CDATA[checkboxes count: 8; 
+]]>
+            </line>
+            <line>
+              <![CDATA[counting radio buttons; 
+]]>
+            </line>
+            <line>
+              <![CDATA[radio button count: 3; 
+]]>
+            </line>
+            <line>
+              <![CDATA[counting tabs; 
+]]>
+            </line>
+            <line>
+              <![CDATA[tabs count: 10; 
+]]>
+            </line>
+            <line>
+              <![CDATA[counting links; 
+]]>
+            </line>
+            <line>
+              <![CDATA[total links count: 265; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer stopped; 
+]]>
+            </line>
+            <line>
+              <![CDATA[time taken to execute this method:182039 milliseconds 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- count -->
+        <test-method signature="check()[pri:3, instance:project.mavenjava.spicejet@5cee5251]" started-at="2021-06-05T22:55:30 IST" name="check" finished-at="2021-06-05T22:55:58 IST" duration-ms="28588" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[timer reset; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer started; 
+]]>
+            </line>
+            <line>
+              <![CDATA[the element is visible as departure city - CHECKED; 
+]]>
+            </line>
+            <line>
+              <![CDATA[the element is visible as arrival city - CHECKED; 
+]]>
+            </line>
+            <line>
+              <![CDATA[2nd testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[2nd testcase screenshot compared 1st with baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[the element is visible as depart date - CHECKED; 
+]]>
+            </line>
+            <line>
+              <![CDATA[3rd testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[3rd testcase screenshot compared with 1st baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Return date is disabled - CHECKED; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Round trip radio button enabled; 
+]]>
+            </line>
+            <line>
+              <![CDATA[4th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[4th testcase screenshot compared with 1st baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Return date is enabled - CHECKED; 
+]]>
+            </line>
+            <line>
+              <![CDATA[the element is visible as return date - CHECKED; 
+]]>
+            </line>
+            <line>
+              <![CDATA[3 adult passengers - CHECKED; 
+]]>
+            </line>
+            <line>
+              <![CDATA[5th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[5th testcase screenshot compared with 1st baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[USD currency selected; 
+]]>
+            </line>
+            <line>
+              <![CDATA[6th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[6th testcase screenshot compared with 1st baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Friends and family selected - CHECKED; 
+]]>
+            </line>
+            <line>
+              <![CDATA[7th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[7th testcase screenshot compared with 1st baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer stopped; 
+]]>
+            </line>
+            <line>
+              <![CDATA[time taken to execute this method:28587 milliseconds 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method signature="chatbot()[pri:4, instance:project.mavenjava.spicejet@5cee5251]" started-at="2021-06-05T22:55:58 IST" name="chatbot" finished-at="2021-06-05T22:56:08 IST" duration-ms="9712" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[timer reset; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer started; 
+]]>
+            </line>
+            <line>
+              <![CDATA[2nd baseline screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[chatbot opened; 
+]]>
+            </line>
+            <line>
+              <![CDATA[8th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[8th testcase screenshot compared with 2nd baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[chatbot closed; 
+]]>
+            </line>
+            <line>
+              <![CDATA[9th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[9th testcase screenshot compared with 2nd baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer stopped; 
+]]>
+            </line>
+            <line>
+              <![CDATA[time taken to execute this method:9709 milliseconds 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- chatbot -->
+        <test-method signature="login()[pri:5, instance:project.mavenjava.spicejet@5cee5251]" started-at="2021-06-05T22:56:08 IST" name="login" finished-at="2021-06-05T22:56:39 IST" duration-ms="30692" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[timer reset; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer started; 
+]]>
+            </line>
+            <line>
+              <![CDATA[clicked on member login; 
+]]>
+            </line>
+            <line>
+              <![CDATA[3rd baseline screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[10th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[10th testcase screenshot compared with 3rd baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[login attempted; 
+]]>
+            </line>
+            <line>
+              <![CDATA[11th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[11th testcase screenshot compared with 3rd baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Popup closed; 
+]]>
+            </line>
+            <line>
+              <![CDATA[less than required character for member id ; 
+]]>
+            </line>
+            <line>
+              <![CDATA[login attempted; 
+]]>
+            </line>
+            <line>
+              <![CDATA[12th testcase screenshot captured; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Images are not Same; 
+]]>
+            </line>
+            <line>
+              <![CDATA[12th testcase screenshot compared with 3rd baseline screenshot; 
+]]>
+            </line>
+            <line>
+              <![CDATA[Popup closed; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer stopped; 
+]]>
+            </line>
+            <line>
+              <![CDATA[time taken to execute this method:30691 milliseconds 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="closeBrowser()[pri:6, instance:project.mavenjava.spicejet@5cee5251]" started-at="2021-06-05T22:56:39 IST" name="closeBrowser" finished-at="2021-06-05T22:56:40 IST" duration-ms="1157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[timer reset; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer started; 
+]]>
+            </line>
+            <line>
+              <![CDATA[driver is closed; 
+]]>
+            </line>
+            <line>
+              <![CDATA[timer stopped; 
+]]>
+            </line>
+            <line>
+              <![CDATA[time taken to execute this method:794 milliseconds 
+]]>
+            </line>
+            <line>
+              <![CDATA[recording stopped; 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- project.mavenjava.spicejet -->
+    </test> <!-- Spicejet Test -->
+  </suite> <!-- Spicejet -->
+</testng-results>
