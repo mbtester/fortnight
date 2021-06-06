@@ -31,7 +31,7 @@ Testcases:
 - validating if UI Elements are disabled or enabled with Attributes
 - handling checkboxes
 4. Member login attempts and handling popups.
-- characters functionality checked
+- characters functionality test
 
 
 How to run:
