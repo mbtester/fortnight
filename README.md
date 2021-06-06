@@ -3,9 +3,13 @@
 This is an automation testing project.
 
 automated website- spicejet.com
+
 automation tool and frameworks used- selenium, maven, TestNG
-automated browser/driver used- chrome
+
+automated browser/driver used- chrome 
  
+                      *Full Automation is performed on single run and with one time browser invokation.*
+
  
 Functionalities:
 1. Scheduled testcases using TestNG @priority
@@ -22,21 +26,21 @@ Testcases:
 1. Tab order checked
 2. Count of total checkboxes, radio buttons, tabs, and links(valid, invalid, mail and total) on homepage.
 3. Automating the homepage by selecting all options on homepage and checking the visibility of all fields.
--handling static dynamic dropdowns
--handling calendar UI
--Validating if UI Elements are disabled or enabled with Attributes
--handling checkboxes
+- handling static dynamic dropdowns
+- handling calendar UI
+- validating if UI Elements are disabled or enabled with Attributes
+- handling checkboxes
 4. Member login attempts and handling popups.
 - characters functionality checked
 
 
-How to run?
-Using IDE- Run spicejettestng.xml or pom.xml in project folder
-Using CMD- mvn test
+How to run:
+1. Using IDE- Run spicejettestng.xml or pom.xml in project folder
+2. Using CMD- mvn test
 
 
-Full Automation is performed on single run and with one time browser invokation.
 
 
 Thanks,
+
 Happy Testing!!
