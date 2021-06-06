@@ -2,6 +2,6 @@
 ### Hi 👋
 
 #### Mukul Bhatnagar
-#### Freelancer | Blogger |
+#### Software Tester
 #### [PORTFOLIO and CV](https://mbtester.github.io/fortnight/)
  
