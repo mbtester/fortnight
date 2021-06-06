@@ -1,3 +1,7 @@
 
 ### Hi 👋
-I am a highly motivated and hardworking software tester.
+
+﻿#### Mukul Bhatnagar
+#### Freelancer | Blogger |
+#### [PORTFOLIO and CV](https://mbtester.github.io/fortnight/)
+ 
