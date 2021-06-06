@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TAYARA]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="tayara.mavenjava.extraction">
+        <methods>
+          <include name="ads"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- tayara.mavenjava.extraction -->
+      <class name="tayara.mavenjava.layout">
+        <methods>
+          <include name="logo"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- tayara.mavenjava.layout -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [TAYARA] -->
